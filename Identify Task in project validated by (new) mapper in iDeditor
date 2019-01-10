@@ -1,0 +1,1 @@
+ Now it is not possible to find a project/task based on the location of mappings done on a Changeset.  Nor by the name of the mapper.  This makes it difficult f.i when I want to know which task a (new mapper, validating in IDeditor) he has validated.  A review could be necessary to check on missing errors and warnings.
